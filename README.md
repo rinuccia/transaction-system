@@ -55,7 +55,7 @@ Request
 {
 "id": "1",
 "amount_of_money": 2.33,
-"operation_code": 1
+"operation_code": "+"
 }
 ```
 
